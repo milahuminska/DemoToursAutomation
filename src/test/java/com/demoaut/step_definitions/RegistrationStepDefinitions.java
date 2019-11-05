@@ -2,6 +2,7 @@ package com.demoaut.step_definitions;
 
 import com.demoaut.pages.RegistrationPage;
 import cucumber.api.java.en.*;
+
 import java.util.Map;
 
 public class RegistrationStepDefinitions {
